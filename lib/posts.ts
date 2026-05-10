@@ -17,7 +17,7 @@ export const posts: Post[] = [
       "[Prisma](https://github.com/prisma/prisma) and Next.js go _great_ together!",
     published: true,
     author: {
-      name: "Nikolas Burk",
+      name: "phipatthana",
       email: "burk@prisma.io",
     },
   },
